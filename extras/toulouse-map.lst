@@ -1,0 +1,86 @@
+;Toulouse métro, tram et funiculaire
+#
+:A:#FD2A17
+Balma - Gramont
+Argoulets
+Roseraie
+Jolimont
+Marengo
+Jean Jaurès
+Capitole
+Esquirol
+St Cyprien - République
+Patte d'Oie
+Arènes
+Fontaine Lestang
+Mermoz
+Bagatelle
+Mirail - Université
+Reynerie
+Bellefontaine
+Basso Cambo
+#
+:B:#FFDA37
+Borderouge
+Trois Cocus
+La Vache
+Barrière de Paris
+Minimes - Claude Nougaro
+Canal du Midi
+Compans Caffarelli
+Jeanne d'Arc
+Jean Jaurès
+François Verdier
+Carmes
+Palais de Justice
+Saint Michel - Marcel Langer
+Empalot
+Saint Agne
+Saouzelong
+Rangeuil
+Faculté de Pharmacie
+Université Paul Sabatier
+Ramonville
+#
+# Ligne C not yet operational as of February 2025
+#
+# Tram
+:T1:#05518A
+Palais de Justice
+Île du Ramier
+Fer à Cheval
+Av. Muret - M. Cavaillé
+Croix de Pierre
+Déodat de Séverac
+Arènes
+Hippodrome
+Zénith
+Cartoucherie
+Purpan
+Arènes Romaines
+Ancely
+Servanty Airbus
+Guyenne - Berry
+Pasteur - Mairie de Blagnac
+Place du Relais
+Odyssud – Ritouret
+Patinoire - Barradels
+Grand Noble
+Place G. Brassens
+Andromède Lycée
+Beauzelle - Aeroscopia
+Aéroconstellation
+MEETT
+# Train
+:LiO:#7559A5
+Arènes
+Le TOEC
+Lardenne
+Saint Martin du Touch
+Ramassiers
+Colomiers Gare SNCF
+# Funiculaire
+:Téléo:#EC1977
+Université Paul Sabatier
+Hôpital Rangueil - Louis Lareng
+Oncopole - Lise Enjalbert
